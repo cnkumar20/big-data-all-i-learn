@@ -18,7 +18,7 @@ Pipeline :
 Data Processing :
 1) Java Map Reduce Programs
 2) Spark 2.3
-
+3) Pandas (python dataframe and visulaization_)
 
 Big Data - Data Base:
 1) Postgres
